@@ -6,7 +6,7 @@ class Page{
        this.checkboxRemoTest = Selector('#remote-testing');
        this.radioButtonLinux = Selector('#linux');
        this.listaInterface = Selector('#preferred-interface');
-       this.listaInterface = Selector('#preferred-interface > option:nth-child(2)');
+       this.elementJavascriptApi = Selector('#preferred-interface > option:nth-child(2)');
        this.checkBoxTriedTc = Selector('#tried-test-cafe');
        this.textArea = Selector('#comments');
 
