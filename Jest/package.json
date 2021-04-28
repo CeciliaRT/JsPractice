@@ -1,0 +1,12 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "test_Jest1.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
